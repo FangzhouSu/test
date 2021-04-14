@@ -1,3 +1,4 @@
+#思路来自 《算法图解》
 class BinarySearch():
 
   def search_iterative(self, list, item):
