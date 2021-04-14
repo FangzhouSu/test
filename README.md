@@ -1,2 +1,2 @@
 # algorithm
-初次体验~
+some algorithms which acomplished by python~
